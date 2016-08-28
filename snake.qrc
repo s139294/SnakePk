@@ -1,0 +1,62 @@
+<RCC>
+    <qresource prefix="/splash">
+        <file>images/splash.png</file>
+    </qresource>
+    <qresource prefix="/mainWindow">
+        <file>images/icon.png</file>
+        <file>images/exit.png</file>
+        <file>images/qt.png</file>
+        <file>images/pk.png</file>
+        <file>images/screenshot.png</file>
+        <file>images/bg.png</file>
+        <file>images/player_AI.png</file>
+        <file>images/single_AI.png</file>
+        <file>images/single_player.png</file>
+        <file>images/slow_down.png</file>
+        <file>images/speed_up.png</file>
+        <file>images/two_AIs.png</file>
+        <file>images/two_players.png</file>
+        <file>QPushButton.qss</file>
+        <file>images/icon_trans.png</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file>images/0.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/bg.png</file>
+        <file>images/apple.png</file>
+        <file>images/crash.png</file>
+        <file>images/bottom_left_0.png</file>
+        <file>images/bottom_right_0.png</file>
+        <file>images/head_down_0.png</file>
+        <file>images/head_left_0.png</file>
+        <file>images/head_right_0.png</file>
+        <file>images/head_up_0.png</file>
+        <file>images/tail_down_0.png</file>
+        <file>images/tail_left_0.png</file>
+        <file>images/tail_right_0.png</file>
+        <file>images/tail_up_0.png</file>
+        <file>images/top_left_0.png</file>
+        <file>images/top_right_0.png</file>
+        <file>images/down_0.png</file>
+        <file>images/left_0.png</file>
+        <file>images/right_0.png</file>
+        <file>images/up_0.png</file>
+        <file>images/bottom_right_1.png</file>
+        <file>images/head_down_1.png</file>
+        <file>images/head_left_1.png</file>
+        <file>images/head_right_1.png</file>
+        <file>images/head_up_1.png</file>
+        <file>images/left_1.png</file>
+        <file>images/tail_down_1.png</file>
+        <file>images/tail_left_1.png</file>
+        <file>images/tail_right_1.png</file>
+        <file>images/tail_up_1.png</file>
+        <file>images/top_left_1.png</file>
+        <file>images/top_right_1.png</file>
+        <file>images/up_1.png</file>
+        <file>images/bottom_left_1.png</file>
+        <file>images/down_1.png</file>
+        <file>images/right_1.png</file>
+    </qresource>
+</RCC>
